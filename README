@@ -1,0 +1,35 @@
+# Let's Code: Python Exercises | Jun2022
+
+> Objective:
+> In this challenges I am training basic python skills in 9 exercises.
+
+> Idex:
+>
+> > ex01 - Write a program that asks the user for a number and prints all numbers from one to the number the user enters.
+while | for
+
+> > ex02 - Create a program that reads any value and displays a message telling which range this value is in.
+comparison operators | if | elif
+
+> > ex03 - Create a function that takes the value of the radius of a circle as a parameter and returns the value of the area of that circle.
+math library
+
+> > ex04 - Write a program that asks for 2 integers and a real number, calculates and displays.
+arithmetic operators | int | float
+
+> > ex05 - Let's make a program to control who is the murderer of a crime.
+comparison operators | if | elif
+
+> > ex06 - Write a function that takes a list of numbers and returns the sum of the elements in that list.
+array | while | for
+
+> > ex07 - Write a program that reads the coordinates of 2 (two) points on a 2D Cartesian plane. Then calculate the Euclidean distance between the points..
+math library | array | float
+
+> > ex08 - Calculate the sum of a thousand terms of the inverses of the factorials.
+while
+
+> > ex09 - Create (manually or by drawing numbers) a list of 10 numbers and print...
+random library | for | manipulating array
+
+---
